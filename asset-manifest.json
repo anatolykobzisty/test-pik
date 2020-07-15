@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test-pik/static/css/main.0a4dd804.chunk.css",
+    "main.js": "/test-pik/static/js/main.ffcded7e.chunk.js",
+    "main.js.map": "/test-pik/static/js/main.ffcded7e.chunk.js.map",
+    "runtime-main.js": "/test-pik/static/js/runtime-main.900291bc.js",
+    "runtime-main.js.map": "/test-pik/static/js/runtime-main.900291bc.js.map",
+    "static/js/2.daca2a83.chunk.js": "/test-pik/static/js/2.daca2a83.chunk.js",
+    "static/js/2.daca2a83.chunk.js.map": "/test-pik/static/js/2.daca2a83.chunk.js.map",
+    "index.html": "/test-pik/index.html",
+    "precache-manifest.569a119ed502edd7e63437c2f1350212.js": "/test-pik/precache-manifest.569a119ed502edd7e63437c2f1350212.js",
+    "service-worker.js": "/test-pik/service-worker.js",
+    "static/css/main.0a4dd804.chunk.css.map": "/test-pik/static/css/main.0a4dd804.chunk.css.map",
+    "static/js/2.daca2a83.chunk.js.LICENSE.txt": "/test-pik/static/js/2.daca2a83.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/test-pik/static/media/proba_pro_thin.4c1d6338.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.900291bc.js",
+    "static/js/2.daca2a83.chunk.js",
+    "static/css/main.0a4dd804.chunk.css",
+    "static/js/main.ffcded7e.chunk.js"
+  ]
+}
