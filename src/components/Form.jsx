@@ -39,7 +39,7 @@ function Form() {
             name="name"
             id="name"
             label="Имя"
-            className="input"
+            className={formik.errors.message ? 'input-error' : 'input'}
             placeholder="&nbsp;"
             type="text"
             value={formik.values.name}
